@@ -1,0 +1,12 @@
+<addon id="repository.ddurdle-testing" name="ddurdle's Cloud Services KODI XBMC Addons for TESTING" version="1.0.4" provider-name="ddurdle">
+	<extension point="xbmc.addon.repository" name="ddurdle's Cloud Services KODI XBMC Addon Repository for TESTING">
+		<info compressed="false">http://dmdsoftware.net/repository.ddurdle-testing/addons.xml</info>
+		<checksum>http://dmdsoftware.net/repository.ddurdle-testing/addons.xml.md5</checksum>
+		<datadir zip="true">http://dmdsoftware.net/repository.ddurdle-testing/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install ddurdle's Cloud Services Addons for TESTING</summary>
+		<description>Download and install cloud service addons by ddurdle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
