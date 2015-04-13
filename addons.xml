@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.gdrive-testing" version="0.5.9" name="gdrive-testing" provider-name="ddurdle">
+<addon id="plugin.video.gdrive-testing" version="0.5.10" name="gdrive-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
