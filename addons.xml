@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.onedrive-testing" version="0.3.8" name="onedrive-testing" provider-name="ddurdle">
+<addon id="plugin.video.onedrive-testing" version="0.3.9" name="onedrive-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
