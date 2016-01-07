@@ -1,1 +1,1 @@
-rsync -avix --progress --exclude-from '.git' ../XBMC-gdrive-0.3-dev/* repo/plugin.video.gdrive-testing
+rsync -avix --progress --exclude-from '.git' ../XBMC-gdrive-dev/* repo/plugin.video.gdrive-testing
