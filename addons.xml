@@ -13,7 +13,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.acd-testing" version="0.2.2" name="acd-testing" provider-name="ddurdle">
+<addon id="plugin.video.acd-testing" version="0.2.3" name="acd-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
