@@ -13,7 +13,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.acd-testing" version="0.2.10" name="acd-testing" provider-name="ddurdle">
+<addon id="plugin.video.acd-testing" version="0.2.11" name="acd-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -26,7 +26,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.gdrive-testing" version="0.8.26" name="gdrive-testing" provider-name="ddurdle">
+<addon id="plugin.video.gdrive-testing" version="0.8.31" name="gdrive-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
