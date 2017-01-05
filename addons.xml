@@ -26,7 +26,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.gdrive-testing" version="0.8.34" name="gdrive-testing" provider-name="ddurdle">
+<addon id="plugin.video.gdrive-testing" version="0.8.37" name="gdrive-testing" provider-name="ddurdle">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
